@@ -3,18 +3,18 @@
 ## The problem
 
 You want to know how to grow a plant and not sure how to do it?\
-If its the right plant for you to grow?\
-Forget when you should irrigate?
+Is it the right plant for you to grow?\
+Growing a plant but forgetting to irrigate it?
 
 ## About us
  **Hey! 👏**\
  \
 We are GrowIt !\
-Our app suggests you which plant to grow, supports you along growing process by irrigate notifications via dedicated management platform.
+Our app suggests you which plant to grow and supports you along growing process by irrigate notifications via dedicated management platform.
 
-In addition, you can get relevant information about the plant, to grow the optimal plant for you!
+In addition, you can get relevant information about the plant, in order to grow the optimal plant for you!
 
- ![This is a alt text.](https://mobile-final-project-growit.s3-eu-west-1.amazonaws.com/poster+35X50+SE+2020+GIMEL1IM.png "This is a sample image.")
+ ![GrowIt](https://mobile-final-project-growit.s3-eu-west-1.amazonaws.com/poster+35X50+SE+2020+GIMEL1IM.png "GrowIt :)")
 
 
 
@@ -22,11 +22,11 @@ In addition, you can get relevant information about the plant, to grow the optim
 
 Project built in React-Native using Expo platform and Redux as a state manager.
 
-Server written in JS using NodeJs engine, deployed to Heroku.
+Server written in JavaScript with NodeJs, deployed to Heroku.
 
 Plants data saved on MongoBD.
 
 Plants pictures uploaded to S3 Bucket.
 
-Current weather achieved from [OpenWeatherMap API](https://openweathermap.org/)
+Current weather accepts from [OpenWeatherMap API](https://openweathermap.org/)
 
