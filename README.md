@@ -14,7 +14,11 @@ Our app suggests you which plant to grow and supports you along growing process 
 
 In addition, you can get relevant information about the plant, in order to grow the optimal plant for you!
 
+We have been chosen to represent the course in Shenkar website and exhibition [Website link](https://www.shenkar.ac.il/he/news_items/mobile-exhibition-software?fbclid=IwAR05nIToCx0li18Aig8nS16epsPs5oGOEsIotskuA9pjdOIvc2S46dVDoow#q:~:text=GrowIt)
+
  ![GrowIt](https://mobile-final-project-growit.s3-eu-west-1.amazonaws.com/poster+35X50+SE+2020+GIMEL1IM.png "GrowIt :)")
+
+
 
 
 
